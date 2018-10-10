@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: About Me
 layout: landing
-description: 'Description of Landing Page.'
+description: 'Learn about Luis'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
