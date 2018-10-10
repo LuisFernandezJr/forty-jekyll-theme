@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Header 2 Paragraph 6</h2>
 		</header>
 		<p>Paragraph 6.</p>
 		<ul class="actions">
