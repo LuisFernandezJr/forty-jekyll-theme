@@ -29,6 +29,10 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 
+# plugins
+plugins:
+  - jekyll-avatar
+
 # build settings
 markdown: kramdown
 
