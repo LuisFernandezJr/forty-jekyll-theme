@@ -30,7 +30,7 @@ slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 
 # plugins
-gems:
+plugins:
   - jekyll-avatar
 
 # build settings
